@@ -61,9 +61,7 @@ Curriculum development, backend architecture, asynchronous programming, debuggin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyWallbridge&layout=compact&theme=neon" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodyWallbridge&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodyWallbridge&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
