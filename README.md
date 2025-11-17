@@ -31,7 +31,6 @@ My goal—whether coding or teaching—is always the same:
 **build things that are practical, ethical, and impactful.**
 
 ---
-
 ## 💡 What Inspires Me
 
 I’m motivated by helping people grow.  
@@ -61,12 +60,20 @@ Curriculum development, backend architecture, asynchronous programming, debuggin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodyWallbridge&show_icons=true&theme=neon" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyWallbridge&layout=compact&theme=neon" height="165"/>
 </p>
 
+
 ## 🧠 Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <em>Thanks for stopping by — feel free to explore my work or connect!</em>
