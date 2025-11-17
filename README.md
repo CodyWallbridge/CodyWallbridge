@@ -43,11 +43,14 @@ I care a lot about thoughtful engineering, clever problem-solving, and building 
 
 ## 🛠️ Skills & Tools
 
-**Languages:**  
-`C#` • `JavaScript` • `TypeScript` • `SQL` • `HTML` • `CSS`
-
-**Frameworks & Tools:**  
-`.NET Core` • `ASP.NET MVC` • `Entity Framework` • `Unity` • `React` • `Node.js` • `LINQ`
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Other Experience:**  
 Curriculum development, backend architecture, asynchronous programming, debugging, design patterns, and working closely with industry partners to align education with real job expectations.
@@ -61,7 +64,6 @@ Curriculum development, backend architecture, asynchronous programming, debuggin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyWallbridge&layout=compact&theme=neon" height="165"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CodyWallbridge)](https://git.io/streak-stats)
 ---
 
 ## 📌 Featured Projects
