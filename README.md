@@ -64,35 +64,9 @@ Curriculum development, backend architecture, asynchronous programming, debuggin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyWallbridge&layout=compact&theme=neon" height="165"/>
 </p>
 
----
+## 🧠 Quote of the Day
 
-## 📌 Featured Projects
-
-Here are a few things I’ve built and maintained:
-
-- **🎮 Unity Third-Person Shooter** — Custom game prototype built to explore gameplay mechanics  
-- **🔧 WoW Addons (“Direct Deposit” + more)** — 7,500+ downloads  
-- **🛰️ Spaceport Docking Manager** — .NET project built for teaching async programming  
-- **🧪 Monster Evolution Lab** — WinForms-based game built for student projects  
-- **🗂️ Detective Case File System (MVC)** — Full CRUD system designed for teaching material  
-
-> 👉 *Check out my pinned repositories below for source code and live demos.*
-
----
-
-## 🧠 Quote I Like
-
-> *“The job of the programmer is to do for today what can be taken care of tomorrow—and automate the rest.”*
-
----
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/cody-wallbridge  
-- **Portfolio:** https://www.your-portfolio-url.com  
-- **Email:** your.email@example.com
-
----
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="center">
   <em>Thanks for stopping by — feel free to explore my work or connect!</em>
