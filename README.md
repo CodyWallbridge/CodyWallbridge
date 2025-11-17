@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Cody 👋</h1>
-<h3 align="center">Post-Secondary Instructor @ MITT • Software Developer • Backend Enthusiast</h3>
+<h3 align="center">Post-Secondary Instructor @ MITT • Software Developer</h3>
 
 ---
 
@@ -22,10 +22,10 @@ My industry experience covers frontend, backend, and data work at companies like
 - **QDoc**  
 - **Activate Games**
 
-Outside of industry, I build things for fun—from **Unity games** to **World of Warcraft add-ons** (7,500+ downloads).
+Outside of industry, I build things for fun—from **Unity games** to **World of Warcraft add-ons**.
 
-Today, I'm a **Post-Secondary Instructor at the Manitoba Institute of Trades and Technology**, where I design scenario-based assignments, build demo applications, and help students hit real-world expectations.  
-I’m also part of the team leading a full program redesign, working directly with industry to modernize the curriculum.
+Today, I'm a **Post-Secondary Instructor at the Manitoba Institute of Trades and Technology**, where I design scenario-based assignments, build and debug demo applications, and help students hit real-world expectations.  
+I’m also part of the team leading a full program redesign, working with industry to modernize the curriculum.
 
 My goal—whether coding or teaching—is always the same:  
 **build things that are practical, ethical, and impactful.**
@@ -37,14 +37,7 @@ My goal—whether coding or teaching—is always the same:
 I’m motivated by helping people grow.  
 Watching a student go from *“I don’t get this”* to shipping their first working feature is one of the most rewarding experiences in the world.
 
-I’m equally inspired by:
-
-- clean, thoughtful backend architecture  
-- code that makes someone say “that’s clever”  
-- simple solutions to complex problems  
-- tools that empower others  
-- continuous learning  
-- building things that genuinely make someone’s day easier  
+I care a lot about thoughtful engineering, clever problem-solving, and building tools that make life easier. I’m always learning, improving, and trying to write code—and teach in a way—that genuinely helps people.
 
 ---
 
@@ -64,12 +57,12 @@ Curriculum development, backend architecture, asynchronous programming, debuggin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodyWallbridge&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyWallbridge&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodyWallbridge&theme=radical" />
 </p>
 
 ---
