@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Cody Wallbridge Banner" width="100%" />
+  <img src="./GitHubBanner.png" alt="Cody Wallbridge Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Cody 👋</h1>
