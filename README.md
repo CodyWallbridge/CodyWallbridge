@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/banner.png" alt="Cody Wallbridge Banner" width="100%" />
+  <img src="./banner.png" alt="Cody Wallbridge Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey, I'm Cody 👋</h1>
